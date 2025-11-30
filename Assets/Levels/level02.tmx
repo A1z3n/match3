@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="7" height="7" tilewidth="100" tileheight="100" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="assets_candy.tsx"/>
+ <layer id="1" name="bg" width="7" height="7">
+  <data encoding="csv">
+36,36,36,36,36,36,36,
+0,36,36,36,36,36,0,
+0,36,36,36,36,36,0,
+0,36,36,36,36,36,0,
+0,0,36,36,36,0,0,
+0,0,36,36,36,0,0,
+0,0,36,36,36,0,0
+</data>
+ </layer>
+</map>
